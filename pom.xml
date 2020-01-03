@@ -8,6 +8,7 @@
 <modelVersion>4.0.0</modelVersion>
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
+  <packaging>war</packaging>
   <version>1.0</version>
 
 </project>
